@@ -1,5 +1,5 @@
 - 👋 Hi, I’m S4IL (@S4IL21)
-- 👀 I’m currently working on [BlockCoin](https://blockcoin.vercel.app) and [VibePost](https://vibepost.ddns.net)
+- 👀 I’m currently working on [VibePost](https://vibepost.ddns.net)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 Contact: s4il.is.a.dev@gmail.com
