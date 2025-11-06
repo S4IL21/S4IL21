@@ -1,13 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20S4IL&desc=Python%20•%20Automation%20•%20AI%20•%20Creativity&descAlign=50&fontAlign=50&fontAlignY=45)
 
-### 🚧 WIP
-- 👋 Hi, I’m S4IL (@S4IL21)
-- 👀 I’m currently working on [VibePost](https://vibepost.ddns.net)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project
-- 📫 Contact: s4il.is.a.dev@gmail.com
-- 😄 Pronouns: He/Him
-- 🌐 Website: [s4il.is-a.dev](https://s4il.is-a.dev)
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge)](https://github.com/S4IL21?tab=followers)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+> Passionate about **automation**, **AI**, and **creative coding** — always exploring new ways to make ideas come alive through Python and beyond.
+
+- 🧠 **Currently learning:** Advanced Python & API automation  
+- 🚀 **Building:** [VibePost](https://vibepost.ddns.net) — an evolving social platform project  
+- 🤝 **Open to collaborate on:** Automation, AI, or innovative open-source projects  
+- 📬 **Reach me at:** [s4il.is.a.dev@gmail.com](mailto:s4il.is.a.dev@gmail.com)  
+- 🌐 **Portfolio:** [s4il.is-a.dev](https://s4il.is-a.dev)  
+- 😄 **Pronouns:** He / Him  
 
 ---
 
