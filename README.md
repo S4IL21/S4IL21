@@ -11,25 +11,46 @@
 
 ---
 
-## <span style="color:white;">👨‍💻 About Me</span>
+<h2 align="center" style="color:white;">👨‍💻 About Me</h2>
 
 <div align="center">
 
-<p style="color:white; font-size:16px;">
+<p align="center" style="color:white; font-size:16px; max-width:600px;">
 💡 Passionate about <b>automation</b>, <b>AI</b>, and <b>creative coding</b><br><br>
 ✨ Always exploring new ways to bring ideas to life through Python.
 </p>
 
 </div>
 
-<div align="center" style="color:white;">
-| 💭 | **Currently learning** | Advanced Python |
-|----|------------------------|-----------------------------|
-| 🚀 | **Working on** | [VibePost](https://vibepost.ddns.net) |
-| 🤝 | **Collaborating on** | Anything exciting! |
-| 📬 | **Contact** | [s4il.is.a.dev@gmail.com](mailto:s4il.is.a.dev@gmail.com) |
-| 🌐 | **Portfolio** | [s4il.is-a.dev](https://s4il.is-a.dev) |
+<div align="center">
 
+<table style="color:white;">
+  <tr>
+    <td>💭</td>
+    <td><b>Currently learning</b></td>
+    <td>Advanced Python</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Working on</b></td>
+    <td><a href="https://vibepost.ddns.net">VibePost</a></td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Collaborating on</b></td>
+    <td>Anything exciting!</td>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td><b>Contact</b></td>
+    <td><a href="mailto:s4il.is.a.dev@gmail.com">s4il.is.a.dev@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://s4il.is-a.dev">s4il.is-a.dev</a></td>
+  </tr>
+</table>
 
 </div>
 
