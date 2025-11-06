@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20S4IL&desc=Python%20•%20Automation%20•%20AI%20•%20Creativity&descAlign=50&fontAlign=50&fontAlignY=45)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20S4IL&desc=Python%20•%20Automation%20•%20AI%20•%20Creativity&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+</p>
 
 <div align="center">
 
