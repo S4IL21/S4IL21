@@ -13,7 +13,8 @@
 
 ### 👨‍💻 About Me
 
-> Passionate about **automation**, **AI**, and **creative coding** — always exploring new ways to make ideas come alive through Python and beyond.
+> Passionate about **automation**, **AI**, and **creative coding**
+> Always exploring new ways to make ideas come alive through Python.
 
 - 🧠 **Currently learning:** Advanced Python & automation  
 - 🚀 **Building:** [VibePost](https://vibepost.ddns.net)
