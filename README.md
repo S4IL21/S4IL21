@@ -23,12 +23,14 @@
 </div>
 
 <div align="center" style="color:white;">
-
+|----|------------------------|-----------------------------|
 | 💭 | **Currently learning** | Advanced Python & automation |
 | 🚀 | **Working on** | [VibePost](https://vibepost.ddns.net) |
 | 🤝 | **Collaborating on** | Anything exciting! |
 | 📬 | **Contact** | [s4il.is.a.dev@gmail.com](mailto:s4il.is.a.dev@gmail.com) |
 | 🌐 | **Portfolio** | [s4il.is-a.dev](https://s4il.is-a.dev) |
+|----|------------------------|-----------------------------|
+
 
 </div>
 
