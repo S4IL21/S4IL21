@@ -15,12 +15,11 @@
 
 > Passionate about **automation**, **AI**, and **creative coding** — always exploring new ways to make ideas come alive through Python and beyond.
 
-- 🧠 **Currently learning:** Advanced Python & API automation  
-- 🚀 **Building:** [VibePost](https://vibepost.ddns.net) — an evolving social platform project  
-- 🤝 **Open to collaborate on:** Automation, AI, or innovative open-source projects  
+- 🧠 **Currently learning:** Advanced Python & automation  
+- 🚀 **Building:** [VibePost](https://vibepost.ddns.net)
+- 🤝 **Open to collaborate on:** Anything! 
 - 📬 **Reach me at:** [s4il.is.a.dev@gmail.com](mailto:s4il.is.a.dev@gmail.com)  
 - 🌐 **Portfolio:** [s4il.is-a.dev](https://s4il.is-a.dev)  
-- 😄 **Pronouns:** He / Him  
 
 ---
 
