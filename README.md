@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/S4IL21?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/S4IL21?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=s4il21&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
 </div>
