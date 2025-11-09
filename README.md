@@ -72,6 +72,12 @@
 
 </div>
 
+<!-- 🟦 GitHub Streak Section -->
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4il21&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
+
 ---
 
 <h3 align="center" style="color:white;">
